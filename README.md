@@ -9,8 +9,8 @@ Link : https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 ## Directory Structure
 The repository is organized as follows:
 
-- `data/`: Contains the dataset used for training and testing.
-- `notebooks/`: Jupyter notebooks used for data analysis and model development.
+- `data/`: Contains the dataset used for training and testing
+- `notebook/`: Jupyter notebooks used for data analysis and model development
 
 
 
